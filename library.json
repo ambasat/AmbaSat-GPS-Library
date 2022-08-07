@@ -1,0 +1,20 @@
+{
+    "name": "AmbaSat SAM_M8Q Library",
+    "frameworks": "arduino",
+    "keywords": "sensors, ambasat, gps, galileo, nmea, i2c ublox, SAM-M8Q",
+    "description": "AmbaSat SAM-M8Q Navigation Sensor Library for use with the AmbaSat-1 Low Earth Orbit Space Satellite",
+    "authors": [
+        {
+            "name": "AmbaSat Ltd",
+            "email": "dev@ambasat.com",
+            "url": "https://ambasat.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ambasat/"
+    },
+	"platforms": "atmelavr",
+    "version": "1.0.0"
+}
